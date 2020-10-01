@@ -1,4 +1,4 @@
-# imphash
+# Get Imphash
 Get Imphash
 
 Usage:
